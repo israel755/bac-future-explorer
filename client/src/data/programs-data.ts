@@ -2111,7 +2111,105 @@ export const programsData: ProgramData[] = [
     careers: ["Documentaliste", "Archiviste", "Gestionnaire de base de données", "Responsable de centre documentaire"],
     icon: "Database",
     image: "https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400"
-  }
+  },
+
+
+    {
+    id : " sciences-et-techniques-de-production-végétale ",
+    nom : " Sciences et techniques de production végétale ",
+    slug : " sciences-et-techniques-de-production-végétale ",
+    catégorie : "Aménagement et Gestion des Ressources Naturelles ",
+    description : " Formation spécialisée dans la production et l’amélioration des cultures végétales. ",
+    explanation : "Apprenez à optimiser les rendements agricoles grâce à la maîtrise des techniques culturales, la protection des plantes, la gestion durable des sols et l’innovation agronomique. ",
+    Durée : " 3-5 ans ",
+    carrières : ["Entrepreneur Agricole ", " Conseiller Agricole ", " Enseignant des lycées agricoles ", " Encadreur en protection des végétaux"],
+    icon : " Base de données ",
+    Image : " https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400 "
+  },
+   {
+    id : " sciences-et-techniques-de-production-animale-et-halieutique ",
+    nom : " Sciences et techniques de production animale et halieutique ",
+    slug : "sciences-et-techniques-de-production-animale-et-halieutique ",
+    catégorie : " Aménagement et Gestion des Ressources Naturelles ",
+    description : " Formation spécialisée dans l’élevage, la gestion des productions animales et les ressources aquatiques. ",
+    explanation : " Développez des compétences pour améliorer la production et la santé des animaux terrestres et aquatiques, en intégrant des techniques d’élevage durable, de nutrition, de reproduction et de gestion des écosystèmes aquatiques. ",
+    Durée : " 3-5 ans ",
+    carrières : ["Technicien en gestion et conduite d’élevage ", " Conseiller Agricole ", " Entrepreneur Agricole ", " Technicien en gestion des exploitations animales et aquacoles"],
+    icon : " Base de données ",
+    Image : " https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400 "
+  },
+   {
+    id : " aménagement-et-gestion-des-ressources-naturelles ",
+    nom : " Aménagement et gestion des ressources naturelles ",
+    slug : " aménagement-et-gestion-des-ressources-naturelles ",
+    catégorie : " Aménagement et Gestion des Ressources Naturelles ",
+    description : " Formation axée sur la préservation, la valorisation et la gestion durable des ressources naturelles. ",
+    explanation : " Acquérez les compétences pour planifier, aménager et gérer les espaces naturels, tout en conciliant développement économique, préservation de l’environnement et utilisation rationnelle des ressources. ",
+    Durée : " 3-5 ans ",
+    carrières : ["Technicien en aménagement et gestion des aires protégées ", " Cadre des eaux et forêts ", " Assistance dans les études de gestion et de conservation des aires protégées ", " Entrepreneur Agricole"],
+    icon : " Base de données ",
+    Image : " https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400 "
+  },
+  {
+    id : " sociologie-et-economie-rurales ",
+    nom : " Sociologie et Economie Rurales ",
+    slug : " sociologie-et-economie-rurales ",
+    Catégorie : " aménagement-et-gestion-des-ressources-naturelles ",
+    description : " Formation centrée sur l’étude des dynamiques sociales et économiques en milieu rural. ",
+    explanation : " Analysez les comportements, les organisations et les politiques rurales afin de proposer des solutions de développement adaptées aux communautés agricoles et aux territoires ruraux. ",
+    Durée : " 3-5 ans ",
+    carrières : ["Assistance dans la création et la gestion d’entreprise ", " Mise en place et gestion de cluster agricole ", " Assistance dans les études socio-économiques ", " Facilitation de la mise en place des innovations institutionnelles"],
+    icon : " Base de données ",
+    Image : " https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400 "
+  },
+   {
+    ID : " nutrition-et-sciences-agroalimentaires ",
+    nom : " Nutrition et Sciences Agroalimentaires ",
+    slug : " nutrition-et-sciences-agroalimentaires ",
+    Catégorie : "aménagement-et-gestion-des-ressources-naturelles ",
+    description : "Formation spécialisée dans la qualité, la transformation et la sécurité des aliments. ",
+    explanation : " Maîtrisez les techniques de production et de contrôle des denrées alimentaires tout en intégrant les principes de nutrition pour répondre aux besoins de santé et de consommation de la population. ",
+    Durée : " 3-5 ans ",
+    carrières : ["Entrepreneur Agro-alimentaire ", " Responsable système de qualité IAA ", " Chef production IAA ", " Technicien en nutrition et sciences agroalimentaires"],
+    icon : " Base de données ",
+    Image : " https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400 "
+  },
+    {
+    ID : " médecine-humaine ",
+    nom : " Médecine Humaine ",
+    slug : " médecine-humaine ",
+    Catégorie : "Santé & Médecine ",
+    description : "Formation dédiée à l'étude, au diagnostic, au traitement et à la prévention des maladies humaines. ",
+    explanation : " Développez des compétences médicales et scientifiques pour soigner, accompagner et améliorer la santé des individus, en intégrant des connaissances en anatomie, physiologie, pharmacologie et pratiques cliniques. ",
+    Durée : " 7-9 ans ",
+    carrières : ["Médecin généraliste dans les hôpitaux ", " Médecin généraliste dans les centres de santé. ", " Chercheur en sciences médicales ", " Médécin spécialiste"],
+    icon : " Base de données ",
+    Image : " https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400 "
+  }, 
+  {
+    ID : " santé-publique-et-surveillance-épidémiologique ",
+    nom : " Santé publique et surveillance épidémiologique ",
+    slug : " santé-publique-et-surveillance-épidémiologique ",
+    Catégorie : "Médecine et Santé Publique ",
+    description : "Formation axée sur la protection et l'amélioration de la santé des populations. ",
+    explanation : " Apprenez à analyser, surveiller et contrôler les problèmes de santé publique, à gérer les épidémies, et à mettre en place des politiques et des programmes de prévention adaptés. ",
+    Durée : " 7-9 ans ",
+    carrières : ["Biostatisticien dans les services de Santé ", " Agent de Surveillance épidémiologique ", "Attaché de Recherche dans les Instituts de Recherche en Santé ", " Agent des collectivités locales"],
+    icon : " Base de données ",
+    Image : " https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400 "
+  }, 
+  {
+    ID : " soins-infirmiers ",
+    nom : " Soins Infirmiers ",
+    slug : " soins-infirmiers ",
+    Catégorie : "Santé & Médecine ",
+    description : "Formation dédiée à la prise en charge globale des patients et à l'assistance médicale. ",
+    explanation : "Acquérez les compétences nécésaires pour prodiguer des soins, assister les médécins, assurer le suivi des traitements et accompagner les patients dans leur rétablissements, tout en respectant les normes éthiques et déontologiques. ",
+    Durée : " 3-4 ans ",
+    carrières : ["Infirmier diplômé d’Etat ", " Infirmier en soins spécialisés ", "Cadre de santé ", " Coordinateur de services de soins"],
+    icon : " Base de données ",
+    Image : " https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=400 "
+  }, 
 ];
 
 // Fonction pour récupérer un programme par son slug
